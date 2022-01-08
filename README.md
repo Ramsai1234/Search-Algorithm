@@ -72,7 +72,8 @@ else:
     print(array)
     print('Element found at index: ',result)
 ~~~
-```
+
+
 
 ## program 3
 ~~~
@@ -99,15 +100,11 @@ else:
     print(array)
     print('Element found at index: ',result)
 ~~~
-```
 
 # output
+![output](./linear1.png)
+![output](./linear2.png)
 ![output](./linear3.png)
-
-
-
-
-
 
 ## Result
 Thus the linear search and binary search algorithm is implemented using python programming.
